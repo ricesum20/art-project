@@ -1,0 +1,5 @@
+{
+  "name": "주제 별 명화 탐색 및 따라그리기",
+  "description": "An educational application that searches for famous artworks based on a theme and generates coloring pages inspired by them.",
+  "requestFramePermissions": []
+}
